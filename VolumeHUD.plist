@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false/>
+				<key>defaults</key>
+				<string>fun.tylerd3v.modernize</string>
+				<key>key</key>
+				<string>kEnableHUD</string>
+				<key>label</key>
+				<string>Enabled</string>
+				<key>PostNotification</key>
+				<string>fun.tylerd3v.modernize/updatedhud</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false/>
+				<key>defaults</key>
+				<string>fun.tylerd3v.modernize</string>
+				<key>key</key>
+				<string>kShadowHUD</string>
+				<key>label</key>
+				<string>Enable Shadow</string>
+				<key>PostNotification</key>
+				<string>fun.tylerd3v.modernize/updatedhud</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false/>
+				<key>defaults</key>
+				<string>fun.tylerd3v.modernize</string>
+				<key>key</key>
+				<string>kEnableLSHUD</string>
+				<key>label</key>
+				<string>Show on Lock Screen</string>
+				<key>PostNotification</key>
+				<string>fun.tylerd3v.modernize/updatedhud</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSLinkCell</string>
+				<key>detail</key>
+				<string>MDCustomHUD</string>
+				<key>isController</key>
+				<true/>
+				<key>label</key>
+				<string>Customize HUD</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Volume HUD</string>
+	</dict>
+</plist>

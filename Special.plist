@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
+				<key>big</key>
+				<true/>
+				<key>cellClass</key>
+				<string>HBTwitterCell</string>
+				<key>label</key>
+				<string>JP Productions</string>
+				<key>user</key>
+				<string>JPProduct1ons</string>
+			</dict>
+			<dict>
+				<key>big</key>
+				<true/>
+				<key>cellClass</key>
+				<string>HBTwitterCell</string>
+				<key>label</key>
+				<string>Kurrt</string>
+				<key>user</key>
+				<string>KurrtDev</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Special Thanks</string>
+	</dict>
+</plist>
