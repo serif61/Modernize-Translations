@@ -67,6 +67,18 @@
 				<string>PSGroupCell</string>
 			</dict>
 			<dict>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>action</key>
+				<string>resetPrefs:</string>
+				<key>label</key>
+				<string>Restore Defaults and Respring</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+			</dict>
+			<dict>
 				<key>big</key>
 				<true/>
 				<key>cellClass</key>
